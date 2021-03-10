@@ -1,3 +1,5 @@
+## ⚠ Cloudera Director is no longer available
+
 # homebrew-cloudera
 
 You can install the Cloudera Director Server and the Client with `brew tap` and `brew install`
